@@ -1,5 +1,5 @@
-import './reset.css';
-import './main.css';
+import './styles/reset.css';
+import './styles/main.css';
 import './pages/home.page';
 
 import { Router } from '@vaadin/router';
