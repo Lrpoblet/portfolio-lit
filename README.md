@@ -4,7 +4,7 @@
 
 Clone the repo:
 
-`git clone [https://gitlab.com/Lrpoblet/portfolio-lit](https://github.com/Lrpoblet/portfolio-lit)`
+`git clone https://github.com/Lrpoblet/portfolio-lit`
 
 Install NPM packages
 
